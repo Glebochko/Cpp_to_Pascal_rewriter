@@ -1,0 +1,14 @@
+#include <fstream>
+#include <iostream>
+
+//int_perem l 
+
+using namespace std;
+
+int main()
+{
+    int l = 3;   
+    cout << "Hell World!";
+    cout << l;
+    return 0;
+}
