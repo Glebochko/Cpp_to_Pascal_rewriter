@@ -1,6 +1,6 @@
 # Cpp to Pascal rewriter
 
-In nash progect we have create a new technological utility, that perepisivaet your udobniy C plus plus code into a very bad Pascal code for Kalmykov
+In nash project we have create a new technological utility, that perepisivaet your udobniy C plus plus code into a very bad Pascal code for Kalmykov
 
 # Developers 
 
