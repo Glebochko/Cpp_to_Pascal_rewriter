@@ -1,6 +1,6 @@
 # Cpp to Pascal rewriter
 
-In nash progect we create a new technology utility, perepisivaishuyu bad Pascal code in very udobniy C plus plus code
+In nash progect we have create a new technological utility, that perepisivaet your udobniy C plus plus code into a very bad Pascal code for Kalmykov
 
 # Developers 
 
@@ -17,5 +17,5 @@ In nash progect we create a new technology utility, perepisivaishuyu bad Pascal 
 - Sublime Text
 - Microsoft Visual Studio
 - Pascal ABC
-- Code Blocks
+- Code Blocks (tmp)
 - Doxigen
