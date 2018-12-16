@@ -1,4 +1,4 @@
-# Surep-perepisovatel
+# Cpp to Pascal rewriter
 
 In nash progect we create a new technology utility, perepisivaishuyu bad Pascal code in very udobniy C plus plus code
 
